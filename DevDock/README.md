@@ -219,14 +219,19 @@ Possible next steps for the project include:
 
 ## Screenshots
 ### Task Dashboard
+<img width="349" height="526" alt="image" src="https://github.com/user-attachments/assets/5fa063d8-fe0b-4aa3-aed4-7b18211a5fcd" />
 
 ### Timer Dashboard
+<img width="344" height="526" alt="image" src="https://github.com/user-attachments/assets/10cf7d67-df9a-4ce9-a674-373cb6137cd3" />
 
 ### Code Snippets Dashboard
+<img width="341" height="524" alt="image" src="https://github.com/user-attachments/assets/de71f3da-421d-47c6-9ff8-a4e6d0b84a18" />
 
 ### Notes Dashboard
+<img width="343" height="524" alt="image" src="https://github.com/user-attachments/assets/2370715f-c512-451a-ad7d-1de0f63066a2" />
 
 ### Music Dashboard
+<img width="340" height="521" alt="image" src="https://github.com/user-attachments/assets/44b85a6a-0ef3-4c4f-9604-1be028dfaea1" />
 
 
 ## What I Learned
