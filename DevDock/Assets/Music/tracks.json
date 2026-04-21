@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Chill Day",
+    "artist": "LAKEY INSPIRED",
+    "album": "Chill Day",
+    "fileName": "Chill Day.mp3",
+    "albumArtFileName": "Chill Day.jpg"
+  },
+  {
+    "title": "Treat me this way",
+    "artist": "Otis Mcdonald",
+    "album": "September",
+    "fileName": "Treat Me This Way.mp3",
+    "albumArtFileName": "september.jpg"
+  },
+  {
+    "title": "Smile",
+    "artist": "Kowkaine",
+    "album": "Smile",
+    "fileName": "Smile.mp3",
+    "albumArtFileName": "smile.jpg"
+  },
+  {
+    "title": "Wonder",
+    "artist": "j^p^n",
+    "album": "Unkind",
+    "fileName": "Wonder.mp3",
+    "albumArtFileName": "wonder.jpg"
+  },
+  {
+    "title": "Far From Home",
+    "artist": "Toonorth",
+    "album": "Far From Home",
+    "fileName": "Far From Home.mp3",
+    "albumArtFileName": "far from home.jpg"
+  }
+]
